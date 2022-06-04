@@ -1,0 +1,19 @@
+show
+fghjkl
+remove_key 15
+show
+insert testW2
+ticket name
+3412
+3412
+85
+2024-4-4
+manager
+fired
+commercial
+49
+main St
+Town
+
+
+show
